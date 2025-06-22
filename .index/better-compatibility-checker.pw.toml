@@ -1,0 +1,16 @@
+filename = 'BetterCompatibilityChecker-fabric-21.1.0+mc1.21.1.jar'
+name = 'Better Compatibility Checker'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '206bcd45c230ba784b0c1f575e75021de87b60301250e3a59fc55f6ae8ad8c112bfc3b8b8229176480207db798c32691e86f7611024a703d1e7d08add04e9510'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KJhXPbHQ/versions/i3Buju9g/BetterCompatibilityChecker-fabric-21.1.0%2Bmc1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'KJhXPbHQ'
+version = 'i3Buju9g'

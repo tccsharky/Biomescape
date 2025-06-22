@@ -1,0 +1,16 @@
+filename = 'prickle-fabric-1.21.1-21.1.8.jar'
+name = 'Prickle'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f24ae1f8fb806ac508102b012d8f8b8bc8db9d21d3bcab5bb37b72fd660b7b508053a343c1fa3778826cbb9722556813c1e1a33afd6024814367640ec84545e6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aaRl8GiW/versions/vHkkdot7/prickle-fabric-1.21.1-21.1.8.jar'
+
+[update.modrinth]
+mod-id = 'aaRl8GiW'
+version = 'vHkkdot7'

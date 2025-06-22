@@ -1,0 +1,16 @@
+filename = 'Corgilib-Fabric-1.21.1-5.0.0.4.jar'
+name = 'CorgiLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c1da17d14ffaaeed90434f3bec9ce9a3f86fb0e362d3b8e5c45b5cd188a481e241ab7a558a9a91fa2328e712a0409206c9dda2e4428d65f265dfdc07b78decd2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ziOp6EO8/versions/kXccSi03/Corgilib-Fabric-1.21.1-5.0.0.4.jar'
+
+[update.modrinth]
+mod-id = 'ziOp6EO8'
+version = 'kXccSi03'

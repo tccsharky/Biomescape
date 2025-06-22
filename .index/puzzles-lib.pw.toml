@@ -1,0 +1,16 @@
+filename = 'PuzzlesLib-v21.1.36-1.21.1-Fabric.jar'
+name = 'Puzzles Lib'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1c94c796cea2349d995b627ce4f35efdda619e832812d830446ca83b7cd92ec94ef75c333a7711b420134d071120508e8f391fbcabdd2f936ff54a036f2a6aee'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QAGBst4M/versions/oYPPpKUB/PuzzlesLib-v21.1.36-1.21.1-Fabric.jar'
+
+[update.modrinth]
+mod-id = 'QAGBst4M'
+version = 'oYPPpKUB'

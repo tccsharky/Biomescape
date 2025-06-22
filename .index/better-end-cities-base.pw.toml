@@ -1,0 +1,16 @@
+filename = 'betterendcities-vanilla-1.21.1.jar'
+name = 'Better End Cities Vanilla'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8b445776ed241129d5f88d25079c9497449a6799b2d8d90afc9e770e6e78bfd9eb01cc4ead2d70eb17e0d87fc8dcfa02ce4af28a2bed7848d5528182a387a8c8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FEChYs43/versions/mRLcEU5B/betterendcities-vanilla-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'FEChYs43'
+version = 'mRLcEU5B'

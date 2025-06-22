@@ -1,0 +1,16 @@
+filename = 'rocks-1.9.3+1.21.1.jar'
+name = 'This Rocks!'
+side = 'server'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd6a8defff6eb4670d65e5e72bf92d308936c2066e2d6bd001ce604f261f29cb7bba5147d911a3a0071e496a711f7b884f4f6f6b13175175802aa8e435acf225c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Sb5ypgDP/versions/UZHukeyT/rocks-1.9.3%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'Sb5ypgDP'
+version = 'UZHukeyT'

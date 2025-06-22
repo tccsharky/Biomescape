@@ -1,0 +1,16 @@
+filename = 'Craftify-1.21-1.16.0-fabric.jar'
+name = 'Craftify'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd04b260e4643667f213a17eae2762f06afb49fffd65b34b1cd09118556f813a87abe4f75cabfd405e944fe2438d1de4ef1476b59d3c1caf4fcd132b73cfc19d1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nrJ2NpD0/versions/tFOP1yXt/Craftify-1.21-1.16.0-fabric.jar'
+
+[update.modrinth]
+mod-id = 'nrJ2NpD0'
+version = 'tFOP1yXt'

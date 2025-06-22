@@ -1,0 +1,16 @@
+filename = 'formations-1.0.2-fabric-mc1.21.jar'
+name = 'Formations (Structure Library)'
+side = 'server'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f0524d4f11f2905df57f147d1696dadc2bab753c52f176a7b92cbf89df02a5e07b2b5a77e4ad1e617c01bfa71dbbe9b82b81ea9d080fea413995d254c95db004'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tPe4xnPd/versions/MWH0DcT7/formations-1.0.2-fabric-mc1.21.jar'
+
+[update.modrinth]
+mod-id = 'tPe4xnPd'
+version = 'MWH0DcT7'

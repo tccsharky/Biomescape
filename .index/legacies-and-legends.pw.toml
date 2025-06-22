@@ -1,0 +1,16 @@
+filename = 'legacies-and-legends-1.21.1-v1.4.9.jar'
+name = 'Legacies and Legends'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cfc8161e304ac64051af7bbac88e489fa92e0a99ebd575ac8ef53e106b134e08daa9c9096feb88ab338d733c9a2c6cf3dfe8495c52535b75859f02ced0d11a25'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rJvxBgdw/versions/3Ho0rztK/legacies-and-legends-1.21.1-v1.4.9.jar'
+
+[update.modrinth]
+mod-id = 'rJvxBgdw'
+version = '3Ho0rztK'

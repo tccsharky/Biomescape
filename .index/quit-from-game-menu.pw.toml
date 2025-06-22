@@ -1,0 +1,32 @@
+filename = 'quit-from-game-menu-1.0.2.jar'
+name = 'Quit from Game Menu'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6'
+]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0297aaf8e27b101da4e13ab9a64e91748a704a52235efa832f46ebbd506ba81819e7ed118b2982d88df9f6c0c76de0a6826b96a5f72cbbba19aeb943f5e918bf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/V9wSe8O4/versions/u3OBGrKK/quit-from-game-menu-1.0.2.jar'
+
+[update.modrinth]
+mod-id = 'V9wSe8O4'
+version = 'u3OBGrKK'

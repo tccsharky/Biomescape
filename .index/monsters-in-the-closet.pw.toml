@@ -1,0 +1,16 @@
+filename = 'monsters-in-the-closet-1.0.3+1.21.jar'
+name = 'Monsters in the Closet'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3050abfa65fa003f0a2230f5e84ac31f4cbcac8ca3fee983df98ed4ddd1f54776a8f11b884c5646f8adba6319916e14a4fb9eeaaeefa5f87617d65a2ecebc204'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/GMA8jFBD/versions/iBLoBKBc/monsters-in-the-closet-1.0.3%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'GMA8jFBD'
+version = 'iBLoBKBc'

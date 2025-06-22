@@ -1,0 +1,16 @@
+filename = 'undergroundworlds-fabric-21.1.0.jar'
+name = 'Underground Worlds'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2052996ebeec7686829a38607f1f9a0094a6a831af2382639c3629dc4e3c07ecaf0aaef963357e66f990382093df4fd8f71de1b3b7c6f23d1c14d60741736e63'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/g9fDJQZe/versions/bFTp5J2b/undergroundworlds-fabric-21.1.0.jar'
+
+[update.modrinth]
+mod-id = 'g9fDJQZe'
+version = 'bFTp5J2b'

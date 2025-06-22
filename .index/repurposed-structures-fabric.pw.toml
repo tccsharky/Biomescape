@@ -1,0 +1,16 @@
+filename = 'repurposed_structures-7.5.15+1.21.1-fabric.jar'
+name = 'Repurposed Structures - Quilt/Fabric'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5fe4e3b8745be01551a79a186f0e8ff059098d30169fa8fb37c869b39a9df7a7085247813cece5dca5050ccf12dd1699d017c47949de7f77107f683b3fab6d91'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/muf0XoRe/versions/AQd0jYwh/repurposed_structures-7.5.15%2B1.21.1-fabric.jar'
+
+[update.modrinth]
+mod-id = 'muf0XoRe'
+version = 'AQd0jYwh'

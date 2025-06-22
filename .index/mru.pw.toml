@@ -1,0 +1,16 @@
+filename = 'mru-1.0.17+1.21.1+fabric.jar'
+name = 'M.R.U'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9eaeccfc3c615b290b4d6f6ae896c0422229b4422dfbab632e452afdb18d3caa66cd8f9adf720204eafe636c8211d66ccaf6dae659bb4906ee4a59ccbf22fd75'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SNVQ2c0g/versions/NwCUyu3d/mru-1.0.17%2B1.21.1%2Bfabric.jar'
+
+[update.modrinth]
+mod-id = 'SNVQ2c0g'
+version = 'NwCUyu3d'

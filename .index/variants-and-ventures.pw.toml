@@ -1,0 +1,16 @@
+filename = 'variantsandventures-fabric-mc1.21.1-1.0.13.jar'
+name = 'Variants&Ventures'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '912c2281c723d6cf2d811d85c2ace3fb4bb921a22e39ef78f81c09428c69ff6534de2584a70f049cef1f9bd368e331030482f7c1783c36cf570bb772c6669cd0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lNDRiXkY/versions/KfMy1em6/variantsandventures-fabric-mc1.21.1-1.0.13.jar'
+
+[update.modrinth]
+mod-id = 'lNDRiXkY'
+version = 'KfMy1em6'

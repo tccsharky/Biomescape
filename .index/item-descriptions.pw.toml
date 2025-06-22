@@ -1,0 +1,16 @@
+filename = 'item-descriptions-fabric-2.3.0+1.21.1.jar'
+name = 'Item Descriptions'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '307dd0a9dcb0c0bdfd90909bd0e2806e376915796af5a307303b78940397fcb73087458b2b40daced19ce4e8701d4816dd66f586f1b67f02452b97487405db96'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UaizcMKP/versions/i97jA37M/item-descriptions-fabric-2.3.0%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'UaizcMKP'
+version = 'i97jA37M'

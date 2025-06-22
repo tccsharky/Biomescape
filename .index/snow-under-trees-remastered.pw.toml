@@ -1,0 +1,16 @@
+filename = 'SnowUnderTrees-2.7.1+1.21.1.jar'
+name = 'Snow Under Trees (Fabric)'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0c5ac59347054b2907c44cec93b53ea202d2c376510f77b7d26b4422c3480afb704bc6460a5900a5fb4a75a809c2a1a0e1c186046d7b378875cc92a417c35af7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XVnUIUAQ/versions/2XRfQcUl/SnowUnderTrees-2.7.1%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'XVnUIUAQ'
+version = '2XRfQcUl'

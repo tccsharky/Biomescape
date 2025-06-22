@@ -1,0 +1,16 @@
+filename = 'PassableFoliage-1.21-Fabric-9.1.2.jar'
+name = 'Passable Foliage 🌳'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e5d114fcc0ab3ab511e056923aeb9d682c8bdf8c933659b879085d95632b849cdb61253b046db33ac4ab4e8b45fde7757a878b16756c83aeb1c4d4a9e33337df'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uaLW6JVR/versions/3xVohBAy/PassableFoliage-1.21-Fabric-9.1.2.jar'
+
+[update.modrinth]
+mod-id = 'uaLW6JVR'
+version = '3xVohBAy'

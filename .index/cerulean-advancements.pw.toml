@@ -1,0 +1,16 @@
+filename = 'cerulean-fabric-1.0.0-1.21.1.jar'
+name = 'Cerulean'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ad7ff28c9dbb98c64f660275df86fd57e3121cb32cef4d3d6c9fb781ff453526d706f21be4c167025a34f7dd2bec24457a9809c87b352f6260c6968e2223036d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dv57xmf9/versions/eVJq5HOt/cerulean-fabric-1.0.0-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'dv57xmf9'
+version = 'eVJq5HOt'

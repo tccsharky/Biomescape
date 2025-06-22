@@ -1,0 +1,16 @@
+filename = 'PickUpNotifier-v21.1.1-1.21.1-Fabric.jar'
+name = 'Pick Up Notifier'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cec33ac6f8d5e7918ae8127275c1b1b2ede5368ea7afc3b0e64bfaf45a7bc112002ceea87f4e4e5662c21da5b42bc1e41780464ccc1096a6839e6c9f08fa0d55'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZX66K16c/versions/4syRr8dj/PickUpNotifier-v21.1.1-1.21.1-Fabric.jar'
+
+[update.modrinth]
+mod-id = 'ZX66K16c'
+version = '4syRr8dj'
